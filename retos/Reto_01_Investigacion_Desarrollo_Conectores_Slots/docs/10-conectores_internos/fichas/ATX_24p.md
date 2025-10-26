@@ -1,4 +1,3 @@
-
 # Conector: ATX de 24 pines
 
 **Descripción breve:** Conector principal que alimenta la placa base en sistemas ATX/ATX12V.  
@@ -11,9 +10,10 @@
 
 ## Notas técnicas
 - Estándar ATX12V 2.x. No confundir con el EPS de CPU (4/8 pines).
+- Se venden usualmente como 20 + 4 para la compatibilidad de placas más antiguas.
 
 ## Fotos
-![ATX 24p](../../../assets/img/10-conectores_internos/atx24_01.jpg "ATX 24p")
+![ATX 24p](../../../assets/img/10-conectores_internos/ATX_24p.jpg "ATX 24p")
 
 ## Fuentes
-- https://www.formfactors.org/
+- https://www.profesionalreview.com/2018/11/10/alimentacion-atx-24-pines-eps
