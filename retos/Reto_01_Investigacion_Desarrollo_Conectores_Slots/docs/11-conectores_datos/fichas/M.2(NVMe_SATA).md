@@ -16,6 +16,6 @@
 ![M.2 SATA y PCIe](../../../assets/img/11-conectores_datos/M.2_sata_vs_M.2_PCIe.PNG "M.2")
 
 ## Fuentes
-* https://low-orbit.net/ultra-m.2
-* https://www.kingston.com/es/blog/pc-performance/two-types-m2-vs-ssd#:~:text=factor%20de%20forma.-,M.,capacidad%20de%20hasta%202%20TB
-* https://www.delkin.com/wp-content/uploads/2020/05/401-0461-00-Rev-D-M.2-2280-PCIe-Industrial-TLC-Engineering-Specification.pdf
+- https://low-orbit.net/ultra-m.2
+- https://www.kingston.com/es/blog/pc-performance/two-types-m2-vs-ssd#:~:text=factor%20de%20forma.-,M.,capacidad%20de%20hasta%202%20TB
+- https://www.delkin.com/wp-content/uploads/2020/05/401-0461-00-Rev-D-M.2-2280-PCIe-Industrial-TLC-Engineering-Specification.pdf

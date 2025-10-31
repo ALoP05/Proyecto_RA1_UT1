@@ -15,5 +15,5 @@
 ![Cable SATA](../../../assets/img/11-conectores_datos/cable-sata-hdd.png "Cable SATA")
 ![Puerto SATA](../../../assets/img/11-conectores_datos/Puerto_SATA.png "Cable SATA")
 ## Fuentes
-* https://hardzone.es/reportajes/que-es/sata-interfaz-pc
-* https://hardzone.es/tutoriales/montaje/tipo-cables-sata-pc
+- https://hardzone.es/reportajes/que-es/sata-interfaz-pc
+- https://hardzone.es/tutoriales/montaje/tipo-cables-sata-pc
