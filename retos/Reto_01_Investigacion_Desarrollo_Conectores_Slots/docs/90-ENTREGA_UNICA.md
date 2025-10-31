@@ -544,20 +544,19 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 - PCIe 6/8 pines: https://www.geeknetic.es
 - ATX de 24 pines: https://www.profesionalreview.com
 - EPS 8 pines (4+4): https://www.reddit.com
-- SATA Alimentacion https://ibericavip.com
-- NVMe M.2 / SATA M.2 https://www.chuwi.com, https://www.geeknetic.es
-- SATA (Serial ATA) https://ibericavip.com/
-- U.2 https://hardzone.es, https://es.wikipedia.org
-- PCI Express x1 x4 x8 x16 
+- SATA Alimentacion: https://ibericavip.com
+- M.2 (NMVe/SATA): https://www.chuwi.com, https://www.geeknetic.es
+- SATA (Serial ATA): https://ibericavip.com/
+- PCI Express x1 x4 x8 x16: 
   - https://ibericavip.com/blog/pc-workstation/para-que-se-utilizan-las-ranuras-pcie-x1-pequenas/
   - https://hardzone.es/tutoriales/componentes/puertos-pcie-tipos-placas-base/#349320-tipos-de-puertos-pcie
   - https://www.techreviewer.com/tech-answers/how-fast-is-pcie-5
   - https://ibericavip.com/blog/pc-workstation/todos-los-tipos-de-ranuras-pcie-explicados-y-comparados
   - https://pcisig.com/
-- Slot: M.2 https://ibericavip.com/blog/pc-workstation/tipos-de-unidades-y-ranuras-m-2-una-guia-detallada
-- DisplayPort https://en.wikipedia.org
-- HDMI https://es.wikipedia.org
-- RJ-45 https://es.wikipedia.org
-- USB-A https://usb.org/, https://www.profesionalreview.com
-- USB-B https://www.reparacion-ordenadores.com, https://www.geeknetic.es
-- USB-C https://usb.org/, https://www.xataka.com/
+- Slot M.2: https://ibericavip.com/blog/pc-workstation/tipos-de-unidades-y-ranuras-m-2-una-guia-detallada
+- DisplayPort: https://cabletimetech.com/es-es/blogs/knowledge/displayport-1-2-displayport-1-4-displayport-2-0-and-displayport-2-1-whats-the-difference
+- HDMI 2.1/2.2: https://www.profesionalreview.com/2025/01/08/hdmi-2-2-vs-hdmi-2-1
+- RJ-45 Ethernet: https://www.profesionalreview.com/2020/02/29/cable-rj45
+- USB-A: https://www.geeknetic.es/USB-A/que-es-y-para-que-sirve
+- USB-C: https://usb.org/usbc 
+  - https://www.xataka.com/basics/usb-type-c-que-exactamente-que-se-diferencia-resto
