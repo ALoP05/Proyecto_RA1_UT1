@@ -75,6 +75,31 @@
   - [Fotos](#fotos-11)
   - [Fuentes](#fuentes-11)
   - [5. Conectores externos](#5-conectores-externos)
+- [Conector externo: DisplayPort 1.4/2.X](#conector-externo-displayport-142x)
+  - [Identificación física](#identificación-física-12)
+  - [Notas técnicas](#notas-técnicas-12)
+  - [Fotos](#fotos-12)
+  - [Fuentes](#fuentes-12)
+- [Conector externo: HDMI 2.1/2.2](#conector-externo-hdmi-2122)
+  - [Identificación física](#identificación-física-13)
+  - [Notas técnicas](#notas-técnicas-13)
+  - [Fotos](#fotos-13)
+  - [Fuentes](#fuentes-13)
+- [Conector externo: Cable Ethernet RJ45](#conector-externo-cable-ethernet-rj45)
+  - [Identificación física](#identificación-física-14)
+  - [Notas técnicas](#notas-técnicas-14)
+  - [Fotos](#fotos-14)
+  - [Fuentes](#fuentes-14)
+- [Conector externo: USB-A](#conector-externo-usb-a)
+  - [Identificación física](#identificación-física-15)
+  - [Notas técnicas](#notas-técnicas-15)
+  - [Fotos](#fotos-15)
+  - [Fuentes](#fuentes-15)
+- [Conector externo: USB-C (USB4/PD)](#conector-externo-usb-c-usb4pd)
+  - [Identificación física](#identificación-física-16)
+  - [Notas técnicas](#notas-técnicas-16)
+  - [Fotos](#fotos-16)
+  - [Fuentes](#fuentes-16)
   - [6. Bibliografía](#6-bibliografía)
 
 <a id="portada"></a>
@@ -222,13 +247,13 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 - https://www.ofzenandcomputing.com/12vhpwr-explained-expert-guide
 
 
-|   Conector   |     Número de pines     | Voltajes Suministrados |            Uso Principal            |     Capacidad de Potencia     | Capacidad de Potencia |
-| :------------: | :-------------------------: | :----------------------: | :------------------------------------: | :-----------------------------: | :---------------------: |
-|   12VHPWR   | 12 + 4 pines<br /> 2 de 6 |          +12V          | Alimentacion de GPU<br />(gama alta) |             600W             |         Alta         |
-| ATX 24 pines |            24            |    +3.3V, +5V, +12V    |     Alimentación de placa base     |             300W             |         Alta         |
-| EPS (4 + 4) |            4/8            |          +12V          |     Alimentación del procesador     |      150 W por conector      |         Alta         |
-|   PCIe 6/8   |            6/8            |          +12V          |         Alimentación de GPU         | 75W (6 pines)  150W (8 pines) |         Alta         |
-|  Power SATA  |            15            |    +3.3V, +5V, +12V    |     Alimentación de HDDs y SSDs     |              54W              |         Alta         |
+|   Conector   |      Número de pines      | Voltajes Suministrados |            Uso Principal             |     Capacidad de Potencia     | Capacidad de Potencia |
+| :----------: | :-----------------------: | :--------------------: | :----------------------------------: | :---------------------------: | :-------------------: |
+|   12VHPWR    | 12 + 4 pines<br /> 2 de 6 |          +12V          | Alimentacion de GPU<br />(gama alta) |             600W              |         Alta          |
+| ATX 24 pines |            24             |    +3.3V, +5V, +12V    |      Alimentación de placa base      |             300W              |         Alta          |
+| EPS (4 + 4)  |            4/8            |          +12V          |     Alimentación del procesador      |      150 W por conector       |         Alta          |
+|   PCIe 6/8   |            6/8            |          +12V          |         Alimentación de GPU          | 75W (6 pines)  150W (8 pines) |         Alta          |
+|  Power SATA  |            15             |    +3.3V, +5V, +12V    |     Alimentación de HDDs y SSDs      |              54W              |         Alta          |
 
 <a id="3-conectores-de-datos"></a>
 
@@ -417,11 +442,122 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
   <a id="5-conectores-externos"></a>
 
 ## 5. Conectores externos
+# Conector externo: DisplayPort 1.4/2.X
 
-(Pega aquí las fichas finales de esta sección)
+**Descripción breve:** Conector más moderno multimedia de transmisión de video y sonido.
+**Pines/Carriles/Voltajes/Velocidad:** 1.4 => 8K 60 Hz // 2.0 => 16k 60Hz/8k 120Hz
+**Uso principal:** Utilizado comúnmente monitores, ordenadores y tarjetas gráficas. 
+**Compatibilidad actual:** Alta.
 
+## Identificación física
+- Forma rectangular y la esquina inferior derecha hace un ángulo mayor a 90º.
+## Notas técnicas
+- Algunos cables tienen un botón para evitar desconexiones accidentales.
+
+## Fotos
+![DisplayPort 1.4/2.X](../assets/img/20-conectores_externos/DisplayPort.png "DisplayPort 1.4/2.X")
+
+## Fuentes
+- https://cabletimetech.com/es-es/blogs/knowledge/displayport-1-2-displayport-1-4-displayport-2-0-and-displayport-2-1-whats-the-difference
+
+# Conector externo: HDMI 2.1/2.2
+
+**Descripción breve:** Conector multimedia de transmisión de video y sonido.
+**Pines/Carriles/Voltajes/Velocidad:** 2.1 48 Gbps 8K 120 Hz // 2.1 96 Gbps 12K 120 Hz/4K 480 fps
+**Uso principal:** Proporcionar de audio y señal de vídeo digital a monitores, televisiones, etc...  
+**Compatibilidad actual:** Alta.
+
+## Identificación física
+- Tiene la forma de un trapezoide más ancho y plano.
+
+## Notas técnicas
+- También hay distintos "sub-tipos" de HDMIs con funciones más especializadas, como:
+    - Dynamic HDR, que mejora el contraste por escena.
+    - VRR (Variable Refresh Rate) que está más enfocado para videojuegos.
+
+## Fotos
+![HDMI 2.1/2.2](../assets/img/20-conectores_externos/HDMI_2.2.png "HDMI 2.1/2.2")
+
+## Fuentes
+- https://www.profesionalreview.com/2025/01/08/hdmi-2-2-vs-hdmi-2-1
+
+# Conector externo: Cable Ethernet RJ45
+
+**Descripción breve:** Estándar (Ethernet) para conexiones red cableadas
+**Pines/Carriles/Voltajes/Velocidad:** 8 pines // 100Mbps/1Gbps/10Gbps
+**Uso principal:** Conectar dispositives a una red privada/pública. 
+**Compatibilidad actual:** Alta.
+
+## Identificación física
+- Forma rectánfular con una pequeña protuberancia/bulto en la parte superior.
+## Notas técnicas
+- Esta parte que sobresale es una pestaña que debe presionarse si se quiere desconectar, evitando accidentes de desconexión.
+
+## Fotos
+![RJ45](../assets/img/20-conectores_externos/RJ45.png "RJ45")
+
+## Fuentes
+- https://www.profesionalreview.com/2020/02/29/cable-rj45
+
+# Conector externo: USB-A
+
+**Descripción breve:** Conector USB más común y utilizado.  
+**Pines/Carriles/Voltajes/Velocidad:** USB 3.0 => 0.5A , USB 3.1 => 0.9A , +5V 
+**Uso principal:** Ratones, teclados, discos externos, memorias USB flash.  
+**Compatibilidad actual:** Alta.
+
+## Identificación física
+- Tiene forma rectangular
+
+## Notas técnicas
+- Dependiendo del fabricante el color puede variar (también si es 3.0, 3.1, etc...).
+
+## Fotos
+![USB-A](../assets/img/20-conectores_externos/USB-A_3.0.jpg "USB-A")
+
+## Fuentes
+- https://www.geeknetic.es/USB-A/que-es-y-para-que-sirve
+
+# Conector externo: USB-C (USB4/PD)
+
+**Descripción breve:** Conector reversible para datos, vídeo y alimentación (PD).  
+**Pines/Carriles/Voltajes/Velocidad:** 24 pines · USB4 hasta 40 Gbps · PD hasta 100–240 W (según perfil)  
+**Uso principal:** Carga y conexión de periféricos/monitores/docks  
+**Compatibilidad actual:** Alta (ojo: no todo USB-C soporta TB/PD)
+
+## Identificación física
+- Ovalado y simétrico; símbolos: rayo (Thunderbolt), “SS” (SuperSpeed).
+
+## Notas técnicas
+- Requisitos de cable para 40 Gbps/240 W; DP Alt Mode para vídeo si no es TB.
+
+## Fotos
+![USB-C](../assets/img/20-conectores_externos/USB_C.jpg "USB-C")
+
+## Fuentes
+- https://usb.org/usbc
+- https://www.xataka.com/basics/usb-type-c-que-exactamente-que-se-diferencia-resto
 <a id="6-bibliografia"></a>
 
 ## 6. Bibliografía
-
-(Pega aquí la bibliografía consolidada)
+- 12VHPWR 12+4 pins/12V-2x6: https://www.ofzenandcomputing.com/12vhpwr-explained-expert-guide
+- PCIe 6/8 pines: https://www.geeknetic.es
+- ATX de 24 pines: https://www.profesionalreview.com
+- EPS 8 pines (4+4): https://www.reddit.com
+- SATA Alimentacion https://ibericavip.com
+- NVMe M.2 / SATA M.2 https://www.chuwi.com, https://www.geeknetic.es
+- SATA (Serial ATA) https://ibericavip.com/
+- U.2 https://hardzone.es, https://es.wikipedia.org
+- PCI Express x1 x4 x8 x16 
+  - https://ibericavip.com/blog/pc-workstation/para-que-se-utilizan-las-ranuras-pcie-x1-pequenas/
+  - https://hardzone.es/tutoriales/componentes/puertos-pcie-tipos-placas-base/#349320-tipos-de-puertos-pcie
+  - https://www.techreviewer.com/tech-answers/how-fast-is-pcie-5
+  - https://ibericavip.com/blog/pc-workstation/todos-los-tipos-de-ranuras-pcie-explicados-y-comparados
+  - https://pcisig.com/
+- Slot: M.2 https://ibericavip.com/blog/pc-workstation/tipos-de-unidades-y-ranuras-m-2-una-guia-detallada
+- DisplayPort https://en.wikipedia.org
+- HDMI https://es.wikipedia.org
+- RJ-45 https://es.wikipedia.org
+- USB-A https://usb.org/, https://www.profesionalreview.com
+- USB-B https://www.reparacion-ordenadores.com, https://www.geeknetic.es
+- USB-C https://usb.org/, https://www.xataka.com/

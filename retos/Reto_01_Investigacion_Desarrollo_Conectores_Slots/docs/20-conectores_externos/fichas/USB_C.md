@@ -1,4 +1,3 @@
-
 # Conector externo: USB-C (USB4/PD)
 
 **Descripción breve:** Conector reversible para datos, vídeo y alimentación (PD).  
@@ -13,7 +12,8 @@
 - Requisitos de cable para 40 Gbps/240 W; DP Alt Mode para vídeo si no es TB.
 
 ## Fotos
-![USB-C](../../../assets/img/20-conectores_externos/usb_c.jpg "USB-C")
+![USB-C](../../../assets/img/20-conectores_externos/USB_C.jpg "USB-C")
 
 ## Fuentes
-- https://usb.org/
+- https://usb.org/usbc
+- https://www.xataka.com/basics/usb-type-c-que-exactamente-que-se-diferencia-resto
