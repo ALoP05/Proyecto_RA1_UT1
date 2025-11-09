@@ -1,8 +1,22 @@
 # Reto 02 — Análisis de Chasis (UT2 · RA1)
+**Alumno/a:** Aarón López Pérez 
+**Grupo:**  1º ASIR
+**Fecha:**  08/11/2025
+**Repositorio:** https://github.com/ALoP05/Proyecto_RA1_UT1/tree/main/retos/Reto_02_Analisis_Chasis
 
-> **Instrucciones:** Copia aquí el contenido final de cada sección (puedes mantener los enlaces relativos a imágenes).
+# Índice
 
-COPIAR: Portada, indiccee y intorducción
+1. [Portada](00-portada.md)
+2. [Introducción](02-introduccion.md)
+3. [Tabla de materiales](10-tabla_materiales/Tabla_de_materiales.md)
+4. [Formatos y diagrama](20-formatos_y_diagrama/Diagrama_y_análisis.md)
+5. [Caso práctico](30-caso_practico/Caso_práctico.md)
+6. [Reflexión personal](40-reflexion_personal/Reflexión_personal.md)
+7. [Entrega y checklist](99-entrega_y_checklist.md)
+
+# Introducción
+
+En este documento analizamos **materiales** (acero SECC, aluminio, plástico, vidrio templado y compuestos) y **formatos** de chasis (Mini torre vs. Micro torre), para entender cómo afectan a **capacidad de componentes**, **refrigeración** y **experiencia de usuario**. Finalmente, resolvemos un **caso práctico** de recomendación.
 
 ## 1) Tabla comparativa de materiales
 # Tabla comparativa de materiales de chasis
@@ -58,4 +72,14 @@ COPIAR: Portada, indiccee y intorducción
 **Por qué:** Por su aguante, resistencia a la corrosión, la anulación de ruido, por su estética y su eficiente circulación de refrigerio (en caso de no usar líquida).
 
 ## 4) Reflexión personal
-(pegado desde `40-reflexion_personal/tu_reflexion.md`)
+# Reflexión personal
+
+El chasis es uno de los principales e imprescindibles componentes en un ordenador, y este varía dependiendo de su utilidad final. Es debido a esto que hay gran variedad de cajas a la hora de comprar una. Los aspectos más importantes a tener en cuenta son:
+
+**El ruido:** Dependiendo del chasis que tengamos para nuestro PC, a la hora de funcionar hará más o menos ruido. Algunas cajas vienen con paneles de espuma o materiales aislantes que amortiguan el ruido de ventiladores y discos duros mecánicos. El grosor del material también influye, como el acero y aluminio robustos haciendo que tenga un menor impacto sonoro.
+
+**La temperatura:** El calor que desprenden los componentes como la CPU o el disco duro debe ser expulsado de la caja, por eso un buen diseño de esta puede influir en el flujo de aire frío/caliente agregando elementos como mallas o canales internos. También se puede hacer uso de los filtros para evitar que entre polvo, ayudando a mantener el rendimiento térmico y limpieza. Además de que el tamaño hace la diferencia, porque te permite meter más ventiladores o radiadores en caso de refrigeración líquida.
+
+**Acceso a puertos:** Una buena torre también debe tener su generosa cantidad de puertos a conexiones externos, los cuales se encuentran siempre en el panel frontal y trasero. Además de que debe tener unos cuantos espacios para conexiones de discos duros, los cuales dependen del tamaño de la caja.
+
+**Estética:** Como se ha comentado antes, el material del chasis también importa, poseyendo características principales de cada material como: el aluminio transmite ligereza y modernidad; el acero da robustez y durabilidad; el vidrio templado añade estética premium y exhibe componentes. También se pueden agregar acabados y pinturas mate, anodizados y pulidos para que luzca como una verdadera caja premium y luces RGB impactantes.
