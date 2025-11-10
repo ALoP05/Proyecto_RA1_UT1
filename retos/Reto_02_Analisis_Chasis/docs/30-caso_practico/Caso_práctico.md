@@ -1,4 +1,4 @@
-# Plantilla — Caso práctico: recomendación de chasis
+# Caso práctico: recomendación de chasis
 
 **Necesidades del cliente:** 
 - Máxima capacidad de almacenamiento (varios HDD/SSD)
