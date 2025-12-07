@@ -56,7 +56,7 @@ En este documento analizamos **materiales** (acero SECC, aluminio, plástico, vi
 - **Uso típico:**  PC compactos, estaciones de trabajo pequeñas y HTPC.
 
 ## 3) Caso práctico
-# Plantilla — Caso práctico: recomendación de chasis
+# Caso práctico: recomendación de chasis
 
 **Necesidades del cliente:** 
 - Máxima capacidad de almacenamiento (varios HDD/SSD)
