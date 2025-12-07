@@ -1,7 +1,5 @@
 # Reto 03 — Elementos internos de un sistema informático (UT2 · RA1)
 
-> **Instrucciones:** Copia aquí el contenido final de cada parte. Para ahora, consolida **solo la Parte 1 (A y B)**.
-
 ## Parte 1 — Actividades A y B
 # Parte 1 — Actividades A y B (único archivo)
 
@@ -106,7 +104,7 @@ Para cada uno: **marca/modelo**, **características**, **precio**, **URL**, **ca
 - Capacidad/Velocidad/Tipo: 16GB (2x8GB) / 3200MHz / DDR4 CL16
 - Precio: 116,95€
 - URL: https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-16gb-2x8gb-cl16
-- Captura: ![Kingston FURY Beast DDR4](/assets/img/20-parte2/Captura1.PNG)
+- Captura: ![Kingston FURY Beast DDR4](../assets/img/20-parte2/Captura1.PNG)
 - Justificación: 16GB en dual channel es lo ideal para multitarea fluida en Windows 10/11 además de la fiabilidad de Kingston.
 
 ### RAM gaming
@@ -115,7 +113,7 @@ Para cada uno: **marca/modelo**, **características**, **precio**, **URL**, **ca
 - Capacidad/Velocidad/Tipo: 32GB (2x16GB) / 6000MHz / DDR5 CL30
 - Precio: 450,95€
 - URL: https://www.pccomponentes.com/gskill-trident-z5-neo-rgb-ddr5-6000mhz-32gb-2x16gb-cl30?srsltid=AfmBOopOiYTG-_Q4WNawgzvmA7-gw3kVlHXblH1aC1A257TJTSIrN_zx
-- Captura: ![G.Skill Trident Z5 NEO RGB (DDR5)](/assets/img/20-parte2/Captura2.PNG)
+- Captura: ![G.Skill Trident Z5 NEO RGB (DDR5)](../assets/img/20-parte2/Captura2.PNG)
 - Justificación: Tienen una latencia ultrabaja, lo que mejora los fotogramas mínimos en juegos competitivos y el disipador es más robusto para aguantar sesiones largas de juego.
 
 ### CPU oficina
@@ -125,7 +123,7 @@ Para cada uno: **marca/modelo**, **características**, **precio**, **URL**, **ca
 - TDP/Gráfica integrada (si aplica): 65W / Radeon Vega 7 Graphics
 - Precio: 161,99€
 - URL: https://www.amazon.es/AMD-Ryzen-5600G-Wraith-Stealth/dp/B092L9GF5N
-- Captura: ![AMD Ryzen 5 5600G](/assets/img/20-parte2/Captura3.PNG)
+- Captura: ![AMD Ryzen 5 5600G](../assets/img/20-parte2/Captura3.PNG)
 - Justificación: Es la mejor alternativa a Intel para oficina (he querido cambiar un poco). A diferencia del Intel i3 (el que iba a escoger en un principio), este tiene 6 núcleos, lo que le da más vida útil a futuro. Posee una gráfica integrada Radeon Vega, que es mucho más potente que la de Intel, permitiendo incluso diseño gráfico ligero o ver vídeos en 4K con total soltura.
 
 ### CPU gaming
@@ -135,7 +133,7 @@ Para cada uno: **marca/modelo**, **características**, **precio**, **URL**, **ca
 - TDP: 105W
 - Precio: 189,90€
 - URL: https://www.pccomponentes.com/amd-ryzen-5-7600x-47-ghz-box-sin-ventilador
-- Captura: ![AMD Ryzen 5 7600X](/assets/img/20-parte2/Captura4.PNG)
+- Captura: ![AMD Ryzen 5 7600X](../assets/img/20-parte2/Captura4.PNG)
 - Justificación: Es la opción inteligente económicamente. Aunque tiene "solo" 6 núcleos, son rapidísimos y mueven cualquier juego actual sin problemas. Al usar la plataforma AM5, te asegura que en 3 o 4 años podrás cambiar solo la CPU por una nueva sin tener que cambiar la placa base ni la RAM. Ofrece el 90% del rendimiento de los procesadores caros por casi la mitad de precio.
 
 ## 2) Tabla comparativa RAM (DDR4 vs DDR5)
@@ -198,7 +196,7 @@ la PNY GeForce RTX 5070 Ti 16GB. Pero si no, dice que compres la de 8GB
 - Nombre exacto en tienda: Tarjeta Gráfica Powercolor Reaper AMD Radeon RX 9060 XT 16GB GDDR6
 - Precio (€): 349,95€
 - URL: https://www.coolmod.com/powercolor-reaper-amd-radeon-rx-9060-xt-16gb-gddr6/
-- Imagen: ![RX_9060_XT](/assets/img/30-parte3/RX_9060_XT.jpg)
+- Imagen: ![RX_9060_XT](../assets/img/30-parte3/RX_9060_XT.jpg)
 
 ### 3.2 GPU del tramo 350 € — Modelo B
 
@@ -206,7 +204,7 @@ la PNY GeForce RTX 5070 Ti 16GB. Pero si no, dice que compres la de 8GB
 - Nombre exacto en tienda: Tarjeta Gráfica Palit GeForce RTX 5060 Ti Infinity 3 16GB GDDR7 Reflex 2 RTX AI DLSS4
 - Precio (€): 449,90€
 - URL: https://www.pccomponentes.com/tarjeta-grafica-palit-geforce-rtx-5060-ti-infinity-3-16gb-gddr7-reflex-2-rtx-ai-dlss4
-- Imagen: ![RTX_5060_TI](/assets/img/30-parte3/RTX_5060_TI.jpg)
+- Imagen: ![RTX_5060_TI](../assets/img/30-parte3/RTX_5060_TI.jpg)
 
 ### 3.3 GPU del tramo 600–800 € — Modelo C
 
@@ -214,7 +212,7 @@ la PNY GeForce RTX 5070 Ti 16GB. Pero si no, dice que compres la de 8GB
 - Nombre exacto en tienda: Tarjeta Gráfica PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6
 - Precio (€): 599,95€
 - URL: https://www.coolmod.com/powercolor-reaper-amd-radeon-rx-9070-xt-16gb-gddr6/
-- Imagen: ![RX_9070_XT](/assets/img/30-parte3/RX_9070_XT.jpg)
+- Imagen: ![RX_9070_XT](../assets/img/30-parte3/RX_9070_XT.jpg)
 
 ### 3.4 GPU del tramo 600–800 € — Modelo D
 
@@ -222,7 +220,7 @@ la PNY GeForce RTX 5070 Ti 16GB. Pero si no, dice que compres la de 8GB
 - Nombre exacto en tienda: Tarjeta Gráfica PNY GeForce RTX 5070 Ti 16GB GDDR7 Reflex 2 RTX AI DLSS4
 - Precio (€): 450,77€
 - URL: https://www.pccomponentes.com/tarjeta-grafica-pny-geforce-rtx-5070-ti-8gb-gddr7-reflex-2-rtx-ai-dlss4
-- Imagen: ![RTX_5070_TI](/assets/img/30-parte3/RTX_5070_TI.png)
+- Imagen: ![RTX_5070_TI](../assets/img/30-parte3/RTX_5070_TI.png)
 
 > Nota: Si no encuentras el mismo **ensamblador**, indica la diferencia manteniendo la misma **GPU**.
 
@@ -236,10 +234,10 @@ la PNY GeForce RTX 5070 Ti 16GB. Pero si no, dice que compres la de 8GB
 | 600–800 €    | Reaper AMD Radeon RX 9070 XT         | Coolmod        |    599,95€ | https://www.coolmod.com/powercolor-reaper-amd-radeon-rx-9070-xt-16gb-gddr6/                                         | *(insertar abajo)* |
 | 600–800 €    | PNY GeForce RTX 5070 Ti              | PC Componentes |    450,77€ | https://www.pccomponentes.com/tarjeta-grafica-pny-geforce-rtx-5070-ti-8gb-gddr7-reflex-2-rtx-ai-dlss4               | *(insertar abajo)* |
 
-![RX_9060_XT](/assets/img/30-parte3/RX_9060_XT.jpg)
-![RTX_5060_TI](/assets/img/30-parte3/RTX_5060_TI.jpg)
-![RX_9070_XT](/assets/img/30-parte3/RX_9070_XT.jpg)
-![RTX_5070_TI](/assets/img/30-parte3/RTX_5070_TI.png)
+![RX_9060_XT](../assets/img/30-parte3/RX_9060_XT.jpg)
+![RTX_5060_TI](../assets/img/30-parte3/RTX_5060_TI.jpg)
+![RX_9070_XT](../assets/img/30-parte3/RX_9070_XT.jpg)
+![RTX_5070_TI](../assets/img/30-parte3/RTX_5070_TI.png)
 
 ## 5) Conclusión (5–8 líneas)
 
